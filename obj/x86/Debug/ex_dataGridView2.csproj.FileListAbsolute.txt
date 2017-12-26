@@ -1,0 +1,17 @@
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\bin\Debug\ex_dataGridView2.exe
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\bin\Debug\ex_dataGridView2.pdb
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.Form1.resources
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.Properties.Resources.resources
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.exe
+C:\Users\gogogo\AppData\Local\Temporary Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.pdb
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.exe
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.pdb
+E:\Projects\ex_dataGridView2\bin\Debug\ex_dataGridView2.exe
+E:\Projects\ex_dataGridView2\bin\Debug\ex_dataGridView2.pdb
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.csprojResolveAssemblyReference.cache
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.Form1.resources
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.Properties.Resources.resources
+E:\Projects\ex_dataGridView2\obj\x86\Debug\ex_dataGridView2.csproj.GenerateResource.Cache
